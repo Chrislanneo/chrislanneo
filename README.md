@@ -2,7 +2,7 @@
 
 
 - 🔭 Ac. de Análise e desenvolvimento de sistemas
-- 🌱 Estudando Python e Django
+- 🌱 Estudando Jaga e SpringBoot
 - 😎 Desenvolvedora Back end
 - 📫 Contato: chrislanneo@gmail.com
 - 😄 Pronouns: ela/dela

@@ -1,7 +1,7 @@
 ### Hello World! Eu sou Chrislanne Oliveira
 
-- 😎 Desenvolvedora Back end Jr em Java e SpringBoot
-- 🌱 Estudando sobre front end para me tornar Dev. fullstack
+- 😎 Desenvolvedora Python Jr
+- 🌱 Estudando sobre Analise e Ciências de Dados
 - 📫 Contato: chrislanneo@gmail.com
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
  
